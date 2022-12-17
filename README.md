@@ -36,7 +36,7 @@ My name is Juliano Quites and I'm a web dev, currently living in Brazil.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianoquites&icon_color=7f5af0&ring_color=7f5af0&text_color=94a1b2&show_icons=true&line_height=27&theme=dark&bg_color=00000000"/>
 </a>
 
-## Social
+## &#127875; Social
 
 <a href="https://twitter.com/juliano_q">
   <img alt="Juliano Quites | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
