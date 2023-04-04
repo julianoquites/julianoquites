@@ -28,7 +28,7 @@ My name is Juliano Quites and I'm a web dev, currently living in Brazil.
 ## &#x1f310; GitHub Stats
 
 <a href="https://github.com/julianoquites">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julianoquites&show_icons=true&text_color=94a1b2&theme=dark&langs_count=3&hide=java,css,html&bg_color=00000000" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=julianoquites&show_icons=true&text_color=94a1b2&theme=dark&langs_count=3&hide=css,html&bg_color=00000000" />
 </a>
 <a href="https://github.com/julianoquites">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianoquites&icon_color=7f5af0&ring_color=7f5af0&text_color=94a1b2&show_icons=true&line_height=27&theme=dark&bg_color=00000000"/>
