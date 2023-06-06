@@ -9,6 +9,7 @@ My name is Juliano Quites and I'm a web dev, currently living in Brazil.
 <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-2d74d7?style=flat&logo=visualstudiocode&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
+<img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd81d?style=flat&logo=javascript&logoColor=white" />
