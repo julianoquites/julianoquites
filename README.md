@@ -12,7 +12,7 @@ My name is Juliano Quites and I'm a web dev, currently living in Brazil.
 <img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd81d?style=flat&logo=javascript&logoColor=white" />
+<!-- <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd81d?style=flat&logo=javascript&logoColor=white" /> -->
 <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59??style=flat&logo=express&logoColor=white" />
 <!-- <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase&logoColor=3ECF8E" /> -->
