@@ -40,12 +40,12 @@ My name is Juliano Quites and I'm a web dev, currently living in Brazil.
 ##	&#x1f47d; Social
 
 <a href="https://twitter.com/juliano_q">
-  <img alt="Juliano Quites | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Juliano Quites Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/julianoquites">
-  <img alt="Juliano Quites's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Juliano Quites LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
-
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianoquites/julianoquites/8d9d364ab55af5150539a560ed5160e9fde67adb/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianoquites/julianoquites/8d9d364ab55af5150539a560ed5160e9fde67adb/github-contribution-grid-snake.svg" />
