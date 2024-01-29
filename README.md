@@ -9,13 +9,13 @@ My name is Juliano Quites and I'm a web dev, currently living in Brazil.
 <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-2d74d7?style=flat&logo=visualstudiocode&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat&logo=react&logoColor=white" />
-<img alt="Next" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-<!-- <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd81d?style=flat&logo=javascript&logoColor=white" /> -->
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-efd81d?style=flat&logo=javascript&logoColor=white" />
 <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59??style=flat&logo=express&logoColor=white" />
-<!-- <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase&logoColor=3ECF8E" /> -->
+<img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+<img alt="Supabase" src="https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase&logoColor=3ECF8E" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-30628a?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
