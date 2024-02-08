@@ -14,6 +14,10 @@ My name is Juliano Quites and I'm a web dev, currently living in Brazil.
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+<img src="https://carrd.co/assets/docs/images/brand/svg/icon-color.svg" width="36" height="36" alt="Carrd" />
+<img src="https://app.flutterflow.io/images/ff_logo_small.png" width="36" height="36" alt="Flutterflow" />
+
+ 
 </p>
 
 <!-- <img alt="Windows" src="https://img.shields.io/badge/-Windows-2d74d7?style=flat&logo=windows&logoColor=white" /> -->
