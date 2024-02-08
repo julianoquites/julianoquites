@@ -1,7 +1,7 @@
 # ![blob-lurk](https://user-images.githubusercontent.com/88687903/208220603-91f6ef38-9b90-4b1e-a390-5b1ccef627e5.gif) Hey!
 <!-- ![Screenshot 2022-12-16 234857](https://user-images.githubusercontent.com/88687903/208220340-43723d40-2524-48b9-bbc6-9aa82bf34173.png)
  -->
-My name is Juliano Quites and I'm a web dev, currently living in Brazil.
+### My name is Juliano Quites and I'm a web dev, currently living in Brazil.
 
 ## &#x1f47b; Technologies
 <p align="left">
