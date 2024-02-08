@@ -42,14 +42,14 @@ My name is Juliano Quites and I'm a web dev, currently living in Brazil.
 ##	&#x1f47d; Social
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/julianoquites" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/julianoquites@blank" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/juliano_q" target="_blank" rel="noreferrer">
+    <a href="https://twitter.com/juliano_q@blank" target="_blank" rel="noreferrer">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
