@@ -1,23 +1,24 @@
 # ![blob-lurk](https://user-images.githubusercontent.com/88687903/208220603-91f6ef38-9b90-4b1e-a390-5b1ccef627e5.gif) Hey!
 <!-- ![Screenshot 2022-12-16 234857](https://user-images.githubusercontent.com/88687903/208220340-43723d40-2524-48b9-bbc6-9aa82bf34173.png)
  -->
-### My name is Juliano Quites and I'm a web dev, currently living in Brazil.
+### My name is Juliano Quites and I'm a web dev. Currently transitioning into the field of Quality Assurance (QA). 
 
 ## &#x1f47b; Technologies
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img src="https://www.cypress.io/images/layouts/cypress-logo.svg" width="100" height="80" alt="Cypress" />
+<img src="https://voyager.postman.com/logo/postman-logo-orange.svg" width="130" height="80" alt="Postman" />
+<img src="https://playwright.dev/img/playwright-logo.svg" width="80" height="80" alt="Playwright" />
+</br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 <img src="https://carrd.co/assets/docs/images/brand/svg/icon-color.svg" width="36" height="36" alt="Carrd" />
-<img src="https://app.flutterflow.io/images/ff_logo_small.png" width="36" height="36" alt="Flutterflow" />
-
- 
 </p>
 
 <!-- <img alt="Windows" src="https://img.shields.io/badge/-Windows-2d74d7?style=flat&logo=windows&logoColor=white" /> -->
