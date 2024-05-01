@@ -8,7 +8,7 @@
 <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" width="100" height="80" alt="Cypress" />
 <img src="https://voyager.postman.com/logo/postman-logo-orange.svg" width="130" height="80" alt="Postman" />
 <img src="https://playwright.dev/img/playwright-logo.svg" width="80" height="80" alt="Playwright" />
- <img src="https://www.svgrepo.com/show/353930/jest.svg" width="50" height="80" alt="Jest" />
+ <img src="https://github.com/jestjs/jest/blob/main/website/static/img/jest-card-run.svg" width="40" height="80" alt="Jest" />
 
 </br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
