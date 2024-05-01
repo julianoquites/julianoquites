@@ -5,10 +5,10 @@
 
 ## &#x1f47b; Technologies
 <p align="left">
-<img src="https://www.cypress.io/images/layouts/cypress-logo.svg" width="100" height="80" alt="Cypress" />
-<img src="https://voyager.postman.com/logo/postman-logo-orange.svg" width="130" height="80" alt="Postman" />
-<img src="https://playwright.dev/img/playwright-logo.svg" width="80" height="80" alt="Playwright" />
- <img src="https://github.com/jestjs/jest/blob/main/website/static/img/jest-card-run.svg" width="40" height="80" alt="Jest" />
+<img src="https://github.com/cypress-io/cypress/blob/develop/packages/frontend-shared/src/assets/logos/cypress_s.png" width="60" height="60" alt="Cypress" />
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60" height="60" alt="Postman" />
+<img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" width="75" height="60" alt="Playwright" />
+ <img src="https://github.com/jestjs/jest/blob/main/website/static/img/jest-card-run.svg" width="60" height="60" alt="Jest" />
 
 </br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
