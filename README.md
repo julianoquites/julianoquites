@@ -5,7 +5,7 @@
 
 ## &#x1f47b; Technologies
 <p align="left">
-<img src="https://github.com/cypress-io/cypress/blob/develop/packages/frontend-shared/src/assets/logos/cypress_s.png" width="60" height="60" alt="Cypress" />
+<img src="https://github.com/julianoquites/julianoquites/blob/main/Cypress_Logomark_White-Color.svg" width="60" height="60" alt="Cypress" />
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60" height="60" alt="Postman" />
 <img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" width="75" height="60" alt="Playwright" />
  <img src="https://github.com/jestjs/jest/blob/main/website/static/img/jest-card-run.svg" width="60" height="60" alt="Jest" />
