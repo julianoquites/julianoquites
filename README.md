@@ -7,8 +7,8 @@
 <p align="left">
 <img src="https://github.com/julianoquites/julianoquites/blob/main/Cypress_Logomark_White-Color.svg" width="60" height="60" alt="Cypress" />
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60" height="60" alt="Postman" />
-<img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" width="75" height="60" alt="Playwright" />
- <img src="https://github.com/jestjs/jest/blob/main/website/static/img/jest-card-run.svg" width="60" height="60" alt="Jest" />
+ <img src="https://github.com/appium/appium/blob/master/packages/appium/docs/overrides/assets/images/appium-logo.png" width="60" height="60" alt="Appium" />
+ <img src="https://ftp-chi.osuosl.org/pub/jenkins/art/jenkins-logo/logo.svg" width="45" height="60" alt="Jenkins" />
 
 </br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
