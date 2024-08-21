@@ -9,6 +9,8 @@
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60" height="60" alt="Postman" />
  <img src="https://github.com/appium/appium/blob/master/packages/appium/docs/overrides/assets/images/appium-logo.png" width="60" height="60" alt="Appium" />
  <img src="https://ftp-chi.osuosl.org/pub/jenkins/art/jenkins-logo/logo.svg" width="45" height="60" alt="Jenkins" />
+ <img src="https://audacia.co.uk/img/technologies/apache-jmeter-white.png" width="60" height="60" alt="Jmeter" />
+ 
 
 </br>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
