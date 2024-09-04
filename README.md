@@ -54,6 +54,13 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
         </picture>
     </a>&nbsp;&nbsp;
+  <a href="https://dev.to/julianoquites" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/julianoquites/julianoquites/blob/main/dev-brands-solid-white.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/julianoquites/julianoquites/blob/main/dev-brands-solid-black.svg" />
+            <img src="https://github.com/julianoquites/julianoquites/blob/main/dev-brands-solid-black.svg" width="32" height="32" />
+        </picture>
+    </a>&nbsp;&nbsp;
 </p>
 
 <br>
