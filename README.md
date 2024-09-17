@@ -62,10 +62,3 @@
         </picture>
     </a>&nbsp;&nbsp;
 </p>
-
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianoquites/julianoquites/8d9d364ab55af5150539a560ed5160e9fde67adb/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianoquites/julianoquites/8d9d364ab55af5150539a560ed5160e9fde67adb/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
-</picture>
