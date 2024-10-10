@@ -24,6 +24,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+<img src="https://github.com/julianoquites/julianoquites/blob/main/MongoDB_Logomark_SpringGreen.png" width="18" height="34" alt="Mongodb" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
 <img src="https://carrd.co/assets/docs/images/brand/svg/icon-color.svg" width="36" height="36" alt="Carrd" />
 </p>
